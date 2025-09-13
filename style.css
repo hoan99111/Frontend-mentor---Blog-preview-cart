@@ -77,6 +77,11 @@ body {
   font-weight: extra-bold;
 }
 
+.title:hover {
+  color: #f4d04e;
+  cursor: pointer;
+}
+
 .text-container .description {
   font-size: 16px;
   font-weight: medium;
